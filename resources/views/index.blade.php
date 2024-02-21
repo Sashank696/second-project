@@ -67,7 +67,7 @@
                         <p class="post-meta">
                             Posted by
                             <a href="#!">Start Bootstrap</a>
-                            on July 8, 2023 my name
+                            on July 8, 2023 my name is kabin
                         </p>
                     </div>
                     <!-- Divider-->
